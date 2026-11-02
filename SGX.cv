@@ -1,0 +1,1665 @@
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
+      SGX: Software Guard Extensions supported = true
+      SGX_LC: SGX launch config supported      = true
+      SGX-KEYS: SGX attestation services       = true
+   Software Guard Extensions (SGX) capability (0x12/0):
+      SGX1 supported                           = true
+      SGX2 supported                           = true
+      SGX ENCLV E*VIRTCHILD, ESETCONTEXT       = false
+      SGX ENCLS ETRACKC, ERDINFO, ELDBC, ELDUC = false
+      SGX ENCLU EVERIFYREPORT2                 = true
+      SGX ENCLS EUPDATESVN                     = true
+      SGX ENCLU EDECCSSA                       = true
+   SGX attributes: ECREATE SECS.ATTRIBUTES (0x12/1):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x2):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x3):
+   SGX Enclave Page Cache (EPC) enumeration (0x12/0x4):
