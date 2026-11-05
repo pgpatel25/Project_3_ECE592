@@ -1,0 +1,5 @@
+[nop] plateau 255 -> 703 TSC cyc/iter; step at ICOUNT ~ 254 (10%-90% transition 254..488); approx. window capacity ~ 256 entries (ICOUNT fillers + the 2 loads)
+[int_add] plateau 258 -> 653 TSC cyc/iter; step at ICOUNT ~ 320 (10%-90% transition 198..396); approx. window capacity ~ 322 entries (ICOUNT fillers + the 2 loads)
+[sse] plateau 256 -> 863 TSC cyc/iter; step at ICOUNT ~ 354 (10%-90% transition 240..790); approx. window capacity ~ 356 entries (ICOUNT fillers + the 2 loads)
+
+Interpretation: nop knee = ROB size. A register-writing kind with a knee BELOW the nop knee is limited by the PRF; capacity is speculative entries only (published PRF size - knee = architectural/non-speculative registers).

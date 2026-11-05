@@ -61,7 +61,7 @@ def main():
     ap.add_argument("--kinds", default="nop,int_add,sse",
                     help=f"comma list from {list(KINDS)}; nop = ROB control")
     ap.add_argument("--start", type=int, default=0)
-    ap.add_argument("--stop", type=int, default=300, help="inclusive; go well past the expected knee")
+    ap.add_argument("--stop", type=int, default=1000, help="inclusive; go well past the expected knee")
     ap.add_argument("--step", type=int, default=2)
     ap.add_argument("--reps", type=int, default=3, help="process launches per ICOUNT (median is used)")
     ap.add_argument("--mb", type=int, default=256, help="pointer-chase buffer size (>> L3)")
