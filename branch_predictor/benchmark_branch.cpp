@@ -61,13 +61,13 @@ int main() {
     printf("Unpredictable (Unsorted): %.4f seconds\n", time_unsorted);
     printf("Predictable (Sorted):     %.4f seconds\n", time_sorted);
 
-    FILE *fp = fopen("results_branch.csv", "w");
+    FILE *fp = fopen("results_branch_skylark.csv", "w");
     if (fp) {
         fprintf(fp, "Test,Time_Seconds\n");
         fprintf(fp, "Unpredictable,%f\n", time_unsorted);
         fprintf(fp, "Predictable,%f\n", time_sorted);
         fclose(fp);
-        printf("Saved to results_branch.csv\n");
+        printf("Saved to results_branch_skylark.csv\n");
     }
 
     return 0;

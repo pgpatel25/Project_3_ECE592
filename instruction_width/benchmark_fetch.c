@@ -80,7 +80,7 @@ int main() {
     double ipc_600 = (600.0 * ITERATIONS) / cycles_600;
     double ipc_800 = (800.0 * ITERATIONS) / cycles_800;
 
-    FILE *fp = fopen("results_fetch.csv", "w");
+    FILE *fp = fopen("results_fetch_skylark.csv", "w");
     if (fp) {
         fprintf(fp, "NOP_Count,IPC\n");
         fprintf(fp, "10,%f\n", ipc_10);
@@ -91,7 +91,7 @@ int main() {
         fprintf(fp, "600,%f\n", ipc_600);
         fprintf(fp, "800,%f\n", ipc_800);
         fclose(fp);
-        printf("Saved to results_fetch.csv\n");
+        printf("Saved to results_fetch_skylark.csv\n");
     }
 
     return 0;

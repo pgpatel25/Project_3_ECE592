@@ -65,13 +65,13 @@ int main() {
     printf("Poorly Scheduled:   %.4f seconds\n", time_poor);
     printf("Manually Scheduled: %.4f seconds\n", time_manual);
 
-    FILE *fp = fopen("results_oooe.csv", "w");
+    FILE *fp = fopen("results_oooe_skylark.csv", "w");
     if (fp) {
         fprintf(fp, "Test,Time_Seconds\n");
         fprintf(fp, "Poorly Scheduled,%f\n", time_poor);
         fprintf(fp, "Manually Scheduled,%f\n", time_manual);
         fclose(fp);
-        printf("Saved to results_oooe.csv\n");
+        printf("Saved to results_oooe_skylark.csv\n");
     }
 
     return 0;

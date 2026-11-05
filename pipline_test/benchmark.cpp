@@ -64,15 +64,15 @@ int main() {
     printf("Independent Test: %.4f seconds\n", time_indep);
     printf("Dependent Test:   %.4f seconds\n", time_dep);
 
-    FILE *fp = fopen("results.csv", "w");
+    FILE *fp = fopen("results_skylark.csv", "w");
     if (fp) {
         fprintf(fp, "Test,Time_Seconds\n");
         fprintf(fp, "Independent,%f\n", time_indep);
         fprintf(fp, "Dependent,%f\n", time_dep);
         fclose(fp);
-        printf("Saved to results.csv\n");
+        printf("Saved to results_skylark.csv\n");
     } else {
-        printf("Error: Could not open results.csv for writing.\n");
+        printf("Error: Could not open results_skylark.csv for writing.\n");
     }
 
     return 0;
